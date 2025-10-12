@@ -1,4 +1,4 @@
-- Baileys Modified by KHAYZConnect
+- Baileys Modified by KAYZConnect
 
 <div align="center">
 
