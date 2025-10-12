@@ -1,8 +1,8 @@
-- Modified by KHAYZConnect
+- Baileys Modified by KHAYZConnect
 
 <div align="center">
 
-![WhatsApp API Banner](https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1760311390001.jpeg)
+![WhatsApp API Banner](https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1760311409709.jpeg)
 
 [![npm version](https://img.shields.io/npm/v/@kriszz-hayanasi/baileys?style=for-the-badge&color=00d26a)](https://www.npmjs.com/package/@kriszz-hayanasi/baileys)
 [![Downloads](https://img.shields.io/npm/dm/@kriszz-hayanasi/baileys?style=for-the-badge&color=blue)](https://www.npmjs.com/package/@kriszz-hayanasi/baileys)
