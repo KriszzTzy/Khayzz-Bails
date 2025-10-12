@@ -1,8 +1,8 @@
-# WhatsApp Web API - Modified by KHAYZConnect
+# - Modified by KHAYZConnect
 
 <div align="center">
 
-![WhatsApp API Banner](https://camo.githubusercontent.com/8c1cc888a216088f8515ca5eb0dc7131bb190d6059af8d02c4616e39b6639114/68747470733a2f2f69696c692e696f2f325a706a746c702e6a7067)
+![WhatsApp API Banner](https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1760311409709.jpeg)
 
 [![npm version](https://img.shields.io/npm/v/@kriszz-hayanasi/baileys?style=for-the-badge&color=00d26a)](https://www.npmjs.com/package/@kriszz-hayanasi/baileys)
 [![Downloads](https://img.shields.io/npm/dm/@kriszz-hayanasi/baileys?style=for-the-badge&color=blue)](https://www.npmjs.com/package/@kriszz-hayanasi/baileys)
