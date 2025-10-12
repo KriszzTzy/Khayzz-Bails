@@ -1,7 +1,7 @@
 {
   "name": "@kriszz-hayanasi/baileys",
   "version": "2.6.1",
-  "description": "Hi",
+  "description": "WhatsApp API By KHAYZConnect",
   "keywords": [
     "baileys",
     "whatsapp",
@@ -10,9 +10,9 @@
     "multi-device",
     "kayz"
   ],
-  "homepage": "https://www.npmjs.com/package/@yupra/baileys",
+  "homepage": "https://www.npmjs.com/package/@kriszz-hayanasi/baileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/@yupra/baileys"
+    "url": "https://github.com/KriszzTzy/Khayzz-Bails"
   },
   "license": "MIT",
   "author": "Khayzu",
@@ -34,8 +34,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo 'Yupra Baileys'",
-    "prepare": "echo 'Yupra Baileys'",
+    "prepack": "echo 'Khayz Baileys'",
+    "prepare": "echo 'Khayz Baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
